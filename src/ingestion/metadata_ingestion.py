@@ -21,7 +21,7 @@ TIMEOUT = 20
 PER_PAGE = 500
 
 RAIZ = Path(__file__).resolve().parents[2]
-PATH = RAIZ / "data" / "raw" / "metadados" / f"{datetime.date.today().isoformat()}"
+PATH = RAIZ / "data" / "bronze" / "metadata" / f"{datetime.date.today().isoformat()}"
 
 def page_request(page_num):
     tempo_espera = 1
