@@ -1,0 +1,82 @@
+criteria:
+  min_recordings_atlantic_forest: 100
+  min_recordists_brazil: 40
+species:
+- scientific_name: Attila rufus
+  common_name: capitão-de-saíra
+- scientific_name: Automolus leucophthalmus
+  common_name: barranqueiro-de-olho-branco
+- scientific_name: Batara cinerea
+  common_name: matracão
+- scientific_name: Campylorhamphus falcularius
+  common_name: arapaçu-de-bico-torto
+- scientific_name: Cantorchilus longirostris
+  common_name: garrinchão-de-bico-grande
+- scientific_name: Chiroxiphia caudata
+  common_name: tangará
+- scientific_name: Conopophaga lineata
+  common_name: chupa-dente
+- scientific_name: Conopophaga melanops
+  common_name: cuspidor-de-máscara-preta
+- scientific_name: Cyclarhis gujanensis
+  common_name: pitiguari
+- scientific_name: Drymophila ferruginea
+  common_name: trovoada
+- scientific_name: Drymophila malura
+  common_name: choquinha-carijó
+- scientific_name: Drymophila ochropyga
+  common_name: choquinha-de-dorso-vermelho
+- scientific_name: Drymophila squamata
+  common_name: pintadinho
+- scientific_name: Dysithamnus mentalis
+  common_name: choquinha-lisa
+- scientific_name: Dysithamnus stictothorax
+  common_name: choquinha-de-peito-pintado
+- scientific_name: Habia rubica
+  common_name: tiê-de-bando
+- scientific_name: Hemitriccus diops
+  common_name: olho-falso
+- scientific_name: Hypoedaleus guttatus
+  common_name: chocão-carijó
+- scientific_name: Lathrotriccus euleri
+  common_name: enferrujado
+- scientific_name: Mackenziaena severa
+  common_name: borralhara
+- scientific_name: Myiothlypis leucoblephara
+  common_name: pula-pula-assobiador
+- scientific_name: Myrmoderus squamosus
+  common_name: papa-formiga-de-grota
+- scientific_name: Platyrinchus mystaceus
+  common_name: patinho
+- scientific_name: Procnias nudicollis
+  common_name: araponga
+- scientific_name: Pyriglena leucoptera
+  common_name: papa-taoca-do-sul
+- scientific_name: Ramphocaenus melanurus
+  common_name: chirito
+- scientific_name: Rhopias gularis
+  common_name: choquinha-de-garganta-pintada
+- scientific_name: Saltator fuliginosus
+  common_name: bico-de-pimenta
+- scientific_name: Sclerurus scansor
+  common_name: vira-folha
+- scientific_name: Scytalopus speluncae
+  common_name: tapaculo-preto
+- scientific_name: Sittasomus griseicapillus
+  common_name: arapaçu-verde
+- scientific_name: Synallaxis ruficapilla
+  common_name: pichororé
+- scientific_name: Synallaxis spixi
+  common_name: joão-teneném
+- scientific_name: Thamnophilus caerulescens
+  common_name: choca-da-mata
+- scientific_name: Todirostrum poliocephalum
+  common_name: teque-teque
+- scientific_name: Tolmomyias sulphurescens
+  common_name: bico-chato-de-orelha-preta
+- scientific_name: Turdus flavipes
+  common_name: sabiá-una
+- scientific_name: Turdus rufiventris
+  common_name: sabiá-laranjeira
+- scientific_name: Xiphorhynchus fuscus
+  common_name: arapaçu-rajado
